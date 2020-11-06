@@ -7,7 +7,7 @@ import discord #discord.py to connect to the discord API
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = "w!", case_insensitive = True) #tells the bot which prefix precedes a command
-TOKEN = "NzcxNzkxNjg5MjYwOTkwNDY0.X5xRBQ.e_-01Ld3RTYVDo4Gb2KrXzWy-uI"
+TOKEN = "Token ID here"
 os.chdir(r'C:\Users\Coral\OneDrive\Desktop\DiscordBot\Happy')
 
 roleVer = 'BOT' #role to add
